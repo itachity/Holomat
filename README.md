@@ -49,12 +49,13 @@ pip install openai pygame ollama
 ```
 2. **Configuration:**
 
-  -In assist.py, add your OpenAI API key.
-  -In assist.py and assist_local.py, update any additional configuration (such as assistant_id and thread_id for the OpenAI assistant, if applicable).
-  -Ensure your system is set up for audio input/output (microphone, speakers).
+- In assist.py, add your OpenAI API key.
+- In assist.py and assist_local.py, update any additional configuration (such as assistant_id and thread_id for the OpenAI assistant, if applicable).
+- Ensure your system is set up for audio input/output (microphone, speakers).
 
-##Usage
-###Calibration Scripts Usage
+## Usage
+### Calibration Scripts Usage
+
   -Run the calibration script:
 ```
 python calibration.py
