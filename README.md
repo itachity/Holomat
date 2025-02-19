@@ -33,7 +33,6 @@ This repository contains two main components:
    git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
   ```
-  ```
 
 2. **Install the required Python libraries:**
 ```
