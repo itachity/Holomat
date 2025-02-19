@@ -1,4 +1,4 @@
-# Holomat Calibration & Jarvis AI Assistant
+# Holomat Project & Jarvis AI Assistant
 
 Inspired by [ConceptBytes' Holomat](https://github.com/Concept-Bytes/Holomat)
 
